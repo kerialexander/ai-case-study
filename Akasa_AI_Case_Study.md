@@ -1,8 +1,8 @@
 # AI CASE STUDY – AKASA – TRANSFORMING HEALTHCARE OPERATIONS THROUGH AI  
 
-## Overview and Origin 
+## Overview and Origin
 
-### Name of Company
+### Company Name
 
 Akasa
 
@@ -28,9 +28,11 @@ Akasa has secured $85M in funding through three rounds of funding. Key investors
 
 The complexity of billing, claims processing, and financial workflows often leads to inefficiencies and delays. Akasa aims to address the operational challenges within healthcare systems, particularly in revenue cycle management (RCM).  
 
-Doing More with Less: Akasa aims to help healthcare providers navigate staffing challenges, tight margins, and evolving payer rules efficiently. The platform's flexibility allows it to perform at full capacity in various workflows, preventing lost revenue despite resource constraints.
-Streamlining Workflows: Healthcare operations often involve tedious tasks that divert attention from patient experience. Akasa's platform automates time-consuming queues, from eligibility to prior authorization and claim status, streamlining workflows and enhancing overall operational efficiency. 
-Reducing the Cost to Collect: Akasa addresses the challenge of reducing the cost to collect in healthcare revenue cycle management. By automating tasks with high accuracy, the platform gives healthcare teams more bandwidth, enabling them to focus on high-value accounts and improve overall yield. This reduction in manual workload and optimization of the collection process contribute to enhanced financial efficiency for healthcare providers.
+**_Doing More with Less_**: Akasa aims to help healthcare providers navigate staffing challenges, tight margins, and evolving payer rules efficiently. The platform's flexibility allows it to perform at full capacity in various workflows, preventing lost revenue despite resource constraints.
+
+**_Streamlining Workflows_**: Healthcare operations often involve tedious tasks that divert attention from patient experience. Akasa's platform automates time-consuming queues, from eligibility to prior authorization and claim status, streamlining workflows and enhancing overall operational efficiency. 
+
+**_Reducing the Cost to Collect_**: Akasa addresses the challenge of reducing the cost to collect in healthcare revenue cycle management. By automating tasks with high accuracy, the platform gives healthcare teams more bandwidth, enabling them to focus on high-value accounts and improve overall yield. This reduction in manual workload and optimization of the collection process contribute to enhanced financial efficiency for healthcare providers.
 
 ### Target Customers 
 
@@ -44,9 +46,9 @@ Akasa offers a unified, AI-driven platform that sets it apart from competitors. 
 
 Akasa utilizes cutting-edge technologies, including machine learning algorithms, natural language processing (NLP) applications, and computer vision solutions. These technologies are seamlessly integrated into the platform to enhance predictive analytics, communication efficiency, and diagnostic capabilities. 
 
-Unified Automation® for healthcare operations serves as the cornerstone of Akasa's platform. The platform commences with computer vision-based Robotic Process Automation (RPA) and is fortified by state-of-the-art Artificial Intelligence (AI), Machine Learning (ML), and an expert-in-the-loop, offering a potent and resilient automation solution. Akasa's proprietary Worklogger™ tool captures the intricate details of client workflows, combining this information with historical claims data. This holistic approach enables the development and implementation of best practices for optimizing new client automation workflows.
+*Unified Automation*® for healthcare operations serves as the cornerstone of Akasa's platform. The platform commences with computer vision-based Robotic Process Automation (RPA) and is fortified by state-of-the-art Artificial Intelligence (AI), Machine Learning (ML), and an expert-in-the-loop, offering a potent and resilient automation solution. Akasa's proprietary *Worklogger*™ tool captures the intricate details of client workflows, combining this information with historical claims data. This holistic approach enables the development and implementation of best practices for optimizing new client automation workflows.
 
-Setting Akasa apart from the competition, Unified Automation® for healthcare operations offers a range of distinctive benefits. Operating remotely and seamlessly integrating with existing billing and Electronic Health Record (EHR) systems, it eliminates the necessity for consultants, in-person implementations, multiple vendors, or the addition of new staff to manage processes. This unique approach allows Akasa to deliver value rapidly and consistently, with minimal maintenance requirements.
+Setting Akasa apart from the competition, *Unified Automation*® for healthcare operations offers a range of distinctive benefits. Operating remotely and seamlessly integrating with existing billing and Electronic Health Record (EHR) systems, it eliminates the necessity for consultants, in-person implementations, multiple vendors, or the addition of new staff to manage processes. This unique approach allows Akasa to deliver value rapidly and consistently, with minimal maintenance requirements.
 
 ## Competitive Landscape 
 
@@ -64,7 +66,13 @@ The healthcare industry is grappling with escalating regulatory challenges, lead
 
 ### Major Competitors in this Field 
 
-Akasa’s major competitors in the healthcare technology sector include Janus, Automation Anywhere, KenSei, UiPath, and ARxChange. 
+Akasa’s major competitors in the healthcare technology sector include the following organizations:
+
+- Janus
+- Automation Anywhere
+- KenSei
+- UiPath
+- ARxChange
 
 ## Results 
 
@@ -84,7 +92,7 @@ Akasa stands out as a leader in the healthcare technology sector, consistently s
 
 ### New Offering 
 
-In response to the challenges posed by claims rejections and denials, Akasa is encouraged to explore the development of a real-time feedback solution for healthcare providers. Leveraging its existing technologies, including Unified Automation® powered by computer vision-based RPA, modern AI, and ML, Akasa can extend its capabilities to offer targeted feedback to providers. This solution would specifically address services commonly resulting in claims rejections or denials due to non-compliance with Local Coverage Determinations (LCDs) and payer reimbursement policies relevant to specific specialties. By offering instant feedback to providers, Akasa can enhance documentation practices, ensuring that claims adhere to the intricate requirements set by payers. 
+In response to the challenges posed by claims rejections and denials, Akasa is encouraged to explore the development of a real-time feedback solution for healthcare providers. Leveraging its existing technologies, including *Unified Automation*® powered by computer vision-based RPA, modern AI, and ML, Akasa can extend its capabilities to offer targeted feedback to providers. This solution would specifically address services commonly resulting in claims rejections or denials due to non-compliance with Local Coverage Determinations (LCDs) and payer reimbursement policies relevant to specific specialties. By offering instant feedback to providers, Akasa can enhance documentation practices, ensuring that claims adhere to the intricate requirements set by payers. 
 
 This proactive approach aims to improve the transmission of clean claims, reducing the likelihood of denials. Addressing the root cause of claim rejections through targeted feedback can significantly impact the percentage of denials, subsequently leading to positive effects on Days in Accounts Receivable (DSO) and cash yield per claim. By incorporating real-time feedback into its suite of services, Akasa aims to enhance documentation practices, ensuring that claims meet the intricate requirements set by payers. This innovative approach aligns with Akasa's commitment to continuous improvement and efficiency in revenue cycle management. The utilization of existing technologies underscores the adaptability and scalability of Akasa's solutions, offering a seamless integration of the new service to benefit both providers and the healthcare ecosystem. 
 
@@ -93,6 +101,8 @@ The real-time feedback loop provides a mechanism for continuous improvement, fos
 To enhance the impact of the real-time feedback solution, Akasa is advised to integrate it seamlessly into existing EMR platforms. The incorporation of the new service within built-in remediation queues, akin to a help menu, would provide a user-friendly experience for healthcare providers. This approach ensures that the feedback system becomes an integral part of the provider's workflow, offering guidance and assistance at the point of care. 
 
 By overlaying the real-time feedback solution on EMR platforms, Akasa can streamline the user experience, making it easily accessible and actionable for providers. The goal is to empower healthcare professionals with instant insights into documentation practices, thereby mitigating issues that lead to claim rejections. This user-centric approach aligns with Akasa's commitment to enhancing operational efficiency and promoting collaborative solutions within the healthcare landscape. 
+
+Note: ChatGPT was utilized to assist with the formatting of this case study. 
 
 ## References 
 
@@ -109,6 +119,3 @@ CB Insights. (n.d.). Alpha Health Competitors, Revenue, Alternatives and Pricing
 PR Newswire. (2021, March 23). AKASA Raises $60 Million in Series B Round. AI-Based Automation Company Formerly Known As Alpha Health Expands Infrastructure and Elevates Brand. Retrieved from https://www.prnewswire.com/news-releases/akasa-raises-60-million-in-series-b-round-301253593.html. 
 
 HFMA. (2023, March 29). The Impact of Claims Denials on the Financial Health of Healthcare. Retrieved from https://www.hfma.org/revenue-cycle/denials-management/the-impact-of-claims-denials-on-the-financial-health-of-healthcare/. 
-
-Note: ChatGPT was utilized to assist in the development of this case study. 
-
