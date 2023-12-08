@@ -95,19 +95,19 @@ By overlaying the real-time feedback solution on EMR platforms, Akasa can stream
 
 ## References 
 
-AKASA. (2023). About Us. Retrieved from https://www.akasa.com/about-usLinks to an external site. 
+AKASA. (2023). About Us. Retrieved from https://www.akasa.com/about-us. 
 
-AKASA. (2023). Unified Automation®. Retrieved from https://www.akasa.com/unified-automationLinks to an external site. 
+AKASA. (2023). Unified Automation®. Retrieved from https://www.akasa.com/unified-automation. 
 
-AKASA. (2023). Worklogger™. Retrieved from https://www.akasa.com/workloggerLinks to an external site. 
+AKASA. (2023). Worklogger™. Retrieved from https://www.akasa.com/worklogger. 
 
-Becker's Hospital Review. (2023, April 19). Financial Management: The 5 Most Time-Consuming Revenue Cycle Tasks. Retrieved from https://www.beckershospitalreview.com/finance/the-five-most-time-consuming-revenue-cycle-tasks.htmlLinks to an external site. 
+Becker's Hospital Review. (2023, April 19). Financial Management: The 5 Most Time-Consuming Revenue Cycle Tasks. Retrieved from https://www.beckershospitalreview.com/finance/the-five-most-time-consuming-revenue-cycle-tasks.html. 
 
-CB Insights. (n.d.). Alpha Health Competitors, Revenue, Alternatives and Pricing. Retrieved from https://www.cbinsights.com/company/alpha-health/alternatives-competitorsLinks to an external site. 
+CB Insights. (n.d.). Alpha Health Competitors, Revenue, Alternatives and Pricing. Retrieved from https://www.cbinsights.com/company/alpha-health/alternatives-competitors. 
 
-PR Newswire. (2021, March 23). AKASA Raises $60 Million in Series B Round. AI-Based Automation Company Formerly Known As Alpha Health Expands Infrastructure and Elevates Brand. Retrieved from https://www.prnewswire.com/news-releases/akasa-raises-60-million-in-series-b-round-301253593.htmlLinks to an external site. 
+PR Newswire. (2021, March 23). AKASA Raises $60 Million in Series B Round. AI-Based Automation Company Formerly Known As Alpha Health Expands Infrastructure and Elevates Brand. Retrieved from https://www.prnewswire.com/news-releases/akasa-raises-60-million-in-series-b-round-301253593.html. 
 
-HFMA. (2023, March 29). The Impact of Claims Denials on the Financial Health of Healthcare. Retrieved from https://www.hfma.org/revenue-cycle/denials-management/the-impact-of-claims-denials-on-the-financial-health-of-healthcare/Links to an external site. 
+HFMA. (2023, March 29). The Impact of Claims Denials on the Financial Health of Healthcare. Retrieved from https://www.hfma.org/revenue-cycle/denials-management/the-impact-of-claims-denials-on-the-financial-health-of-healthcare/. 
 
 Note: ChatGPT was utilized to assist in the development of this case study. 
 
